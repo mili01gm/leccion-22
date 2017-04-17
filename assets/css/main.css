@@ -3,9 +3,7 @@ body {
 }
 
 div {
-  width: 170px;
-  height: 70px;
-  margin: 10px;
+  display: inline;
   padding: 10px;
   background: yellow;
 }
